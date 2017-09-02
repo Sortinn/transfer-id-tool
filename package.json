@@ -1,0 +1,28 @@
+{
+  "name": "transferidtool",
+  "version": "1.0.0",
+  "description": "transfer number id to code",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sortinn/transferIDtool.git"
+  },
+  "author": "sortinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sortinn/transferIDtool/issues"
+  },
+  "homepage": "https://github.com/Sortinn/transferIDtool#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.4",
+    "sinon": "^3.2.1",
+    "sinon-chai": "^2.13.0"
+  }
+}
